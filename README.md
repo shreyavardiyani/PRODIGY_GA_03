@@ -53,7 +53,7 @@ The model was also tested by generating sentences with specific starting words u
 
 ![Advanced Generation](screenshots/advanced_generation.png)
 
-## Sample Outputs
+### Sample Outputs
 
 Below are some sample sentences generated using the Markov Chain model trained on the custom technology dataset.
 
