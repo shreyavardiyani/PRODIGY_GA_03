@@ -52,3 +52,25 @@ The implementation was carried out in **Google Colab** using the **Markovify** l
 The model was also tested by generating sentences with specific starting words using `make_sentence_with_start()`.
 
 ![Advanced Generation](screenshots/advanced_generation.png)
+
+## Sample Outputs
+
+Below are some sample sentences generated using the Markov Chain model trained on the custom technology dataset.
+
+> **"Computing power is becoming a utility the way electricity arrived, first in laboratories, then in factories, then quietly in everything."**
+
+> **"It is intelligence that knows when to speak and when to wait."**
+
+> **"Emergency services arrive before a single tear appears."**
+
+> **"The reach of human intention will expand beyond the limits of the future where every city thinks for itself."**
+
+### Learning Outcomes
+
+Through this project, I:
+
+- Understood the fundamentals of Markov Chains for text generation.
+- Learned how probabilistic language models predict the next word based on previous word sequences.
+- Built and trained a Markov Chain model using the Markovify library.
+- Explored different text generation techniques, including random sentence generation and generation with specified starting words.
+- Understood the strengths and limitations of statistical text generation compared to modern deep learning models.
