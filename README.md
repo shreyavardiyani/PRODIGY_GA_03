@@ -16,3 +16,39 @@ The objective of this project is to implement a simple text generation algorithm
 - **Google Colab** – Cloud-based development environment.
 - **Markovify** – Python library for building Markov Chain text generation models.
 - **UTF-8 Text Dataset** – Custom technology-focused dataset used for training.
+
+### Project Workflow
+
+```
+Custom Text Dataset
+          │
+          ▼
+Load Dataset into Python
+          │
+          ▼
+Build Markov Chain Model using Markovify
+          │
+          ▼
+Generate New Text
+          │
+          ▼
+Evaluate Generated Sentences
+```
+
+### Implementation
+
+The implementation was carried out in **Google Colab** using the **Markovify** library. The project includes dataset loading, model creation, text generation, and evaluation of generated sentences.
+
+#### Dataset Loading
+
+![Dataset Loading](screenshots/dataset_loading.png)
+
+#### Sentence Generation
+
+![Sentence Generation](screenshots/sentence_generation.png)
+
+#### Advanced Text Generation
+
+The model was also tested by generating sentences with specific starting words using `make_sentence_with_start()`.
+
+![Advanced Generation](screenshots/advanced_generation.png)
