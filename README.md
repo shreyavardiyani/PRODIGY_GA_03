@@ -1,2 +1,5 @@
 # PRODIGY_GA_03
-Text Generation using Markov Chains with Python and Markovify.
+
+## Task 3: Text Generation with Markov Chains
+
+### Generative AI Internship @ Prodigy InfoTech
