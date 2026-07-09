@@ -1,6 +1,6 @@
-# Task 3: Text Generation with Markov Chains
+# Text Generation with Markov Chains
 
-## Generative AI Internship @ Prodigy InfoTech
+> **Task 03 - Generative AI Internship @ Prodigy InfoTech**
 
 ### Project Overview
 
